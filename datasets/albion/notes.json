@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Exceptional Hemp"
+    },
+    {
+      "id": 1,
+      "name": "Exceptional Skyflower"
+    },
+    {
+      "id": 2,
+      "name": "Rare  Skyflower"
+    },
+    {
+      "id": 3,
+      "name": "Rare Hemp"
+    },
+    {
+      "id": 4,
+      "name": "Skyflower"
+    },
+    {
+      "id": 5,
+      "name": "Uncommon Hemp"
+    },
+    {
+      "id": 6,
+      "name": "Uncommon Skyflower"
+    },
+    {
+      "id": 7,
+      "name": "cotton"
+    },
+    {
+      "id": 8,
+      "name": "flax"
+    },
+    {
+      "id": 9,
+      "name": "hemp"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

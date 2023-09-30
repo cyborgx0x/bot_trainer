@@ -1,0 +1,21 @@
+# train: ../train/
+# val: ../val/
+# nc: 10
+# names: ['Exceptional Hemp', 'Exceptional Skyflower', 'Rare  Skyflower', 'Rare Hemp', 'Skyflower', 'Uncommon Hemp', 'Uncommon Skyflower', 'cotton', 'flax', 'hemp']
+
+path: ../datasets/albion 
+train: train
+val: val
+test:
+
+names:
+  0: Exceptional Hemp
+  1: Exceptional Skyflower
+  2: Rare Skyflower
+  3: Rare Hemp
+  4: Skyflower
+  5: Uncommon Hemp
+  6: Uncommon Skyflower
+  7: cotton
+  8: flax
+  9: hemp
